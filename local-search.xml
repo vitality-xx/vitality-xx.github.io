@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>寒假conclusion</title>
+    <link href="/2026/02/17/%E5%AF%92%E5%81%87conclusion/"/>
+    <url>/2026/02/17/%E5%AF%92%E5%81%87conclusion/</url>
+    
+    <content type="html"><![CDATA[<h1 id="学习PART"><a href="#学习PART" class="headerlink" title="学习PART"></a>学习PART</h1><h2 id="1-学习了如何做一个Blog"><a href="#1-学习了如何做一个Blog" class="headerlink" title="1.学习了如何做一个Blog"></a>1.学习了如何做一个Blog</h2><p>是之前pjh给我发过一个他的blog，当时觉得他灰常厉害！后面美赛时，和队友学东西，又看到了一个学计算机的大四学生的blog，觉得好精美，所以想了解一下。<br><a href="https://www.panchant.top/">pjh的</a><br><a href="https://blog.marquis.eu.org/about/">美赛看到的</a><br>虽然那个网页目前很不精美，但总归是比之前懂得多了嘛~</p><h3 id="之后计划"><a href="#之后计划" class="headerlink" title="之后计划"></a>之后计划</h3><p>想要把页面排版看着改一下，插入一些漂亮的图片，可能会写写文字类的思考，周&#x2F;月总结这样的。</p><h2 id="2-美赛"><a href="#2-美赛" class="headerlink" title="2.美赛"></a>2.美赛</h2><p>这个属于寒假前半段的事情，和HZy,JXt一起参加的，很愉快，也学到了很多！就是通过这个我才开始学markdown语句，与他们合作中途的的确确也是有摩擦的，但总体很好。说好明年继续组队~</p><h2 id="3-Latex初识"><a href="#3-Latex初识" class="headerlink" title="3.Latex初识"></a>3.Latex初识</h2><h1 id="娱乐PART"><a href="#娱乐PART" class="headerlink" title="娱乐PART"></a>娱乐PART</h1><h2 id="1-看了《亲爱的，热爱的》"><a href="#1-看了《亲爱的，热爱的》" class="headerlink" title="1.看了《亲爱的，热爱的》"></a>1.看了《亲爱的，热爱的》</h2><p>我考完期末先回家了，就看了舍友推荐的电视剧</p><h2 id="2-与高中同学的再见"><a href="#2-与高中同学的再见" class="headerlink" title="2.与高中同学的再见"></a>2.与高中同学的再见</h2><h2 id="3-在看《去有风的地方》"><a href="#3-在看《去有风的地方》" class="headerlink" title="3.在看《去有风的地方》"></a>3.在看《去有风的地方》</h2><h2 id="4-收拾房间看到了曾经的日记很有感触"><a href="#4-收拾房间看到了曾经的日记很有感触" class="headerlink" title="4.收拾房间看到了曾经的日记很有感触"></a>4.收拾房间看到了曾经的日记很有感触</h2><h2 id="4-将要旅行"><a href="#4-将要旅行" class="headerlink" title="4.将要旅行"></a>4.将要旅行</h2>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>my journals</tag>
+      
+      <tag>新体验</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2026/02/17/hello-world/"/>
+    <url>/2026/02/17/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
