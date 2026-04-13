@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: Vitality_x's Blog~
+subtitle: a blog to sahre some interesting things
+description: 唯有文字担此重任，宣告生命曾经在场。
+keywords: 生活，学习，思考
+author: vitality-xx
 language: zh-CN
 timezone: ''
 
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -50,6 +50,9 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
+marked:
+  prependRoot: true
+  postAsset: true
 prismjs:
   preprocess: true
   line_number: true
